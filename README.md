@@ -8,6 +8,10 @@
 --->
 
 
+This driver works to prevent antiransomwares work on Windows OS.
+
+
+
 Scanner File System Minifilter Driver
 =====================================
 
